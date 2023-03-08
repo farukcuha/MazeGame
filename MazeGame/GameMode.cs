@@ -1,0 +1,1 @@
+enum GameMode { FILE, RANDOM }
